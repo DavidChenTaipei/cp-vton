@@ -72,7 +72,7 @@ You can see the results in tensorboard, as show below.
 </div>
 
 
-### eavl
+### el
 An example training command is
 
 ```
